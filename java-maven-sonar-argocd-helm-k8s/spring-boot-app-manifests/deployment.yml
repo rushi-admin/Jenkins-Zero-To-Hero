@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: rushiadmin/myfirstrepo:replaceImageTag
+        image: rushiadmin/myfirstrepo:5
         ports:
         - containerPort: 8080
